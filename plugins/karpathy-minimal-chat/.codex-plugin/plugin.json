@@ -1,7 +1,7 @@
 {
   "name": "karpathy-minimal-chat",
-  "version": "0.1.0+codex.20260916214002",
-  "description": "A manually invoked ChatGPT plugin that keeps work focused, simple, and verifiable.",
+  "version": "0.1.0+codex.20260916214422",
+  "description": "Manually invoked guidance for focused, simple, and verifiable work across coding, research, writing, and planning.",
   "author": {
     "name": "E-COM Co., Ltd."
   },
@@ -17,7 +17,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "最小十分アシスタント",
-    "shortDescription": "必要なことだけを、確認可能な形で進めます。",
+    "shortDescription": "一般チャットで依頼外の追加や複雑化を抑え、必要十分な成果に集中します。",
     "longDescription": "現在の依頼にだけ集中し、前提を明示し、必要最小限の成果物を作り、成功条件を確認します。コーディング、文章、調査、計画などの一般チャットで、頼まれていない拡張や複雑化を抑えます。",
     "developerName": "E-COM Co., Ltd.",
     "category": "Productivity",
@@ -25,4 +25,6 @@
     "defaultPrompt": "この依頼を最小十分な成果物に整理して進めてください。"
   }
 }
+
+
 
