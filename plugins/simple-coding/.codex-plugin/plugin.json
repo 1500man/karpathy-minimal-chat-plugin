@@ -1,11 +1,11 @@
 {
   "name": "simple-coding",
-  "version": "0.1.0+codex.20260916220340",
+  "version": "0.1.0+codex.20260916221359",
   "description": "Guidance for AI coding that limits overimplementation, overdesign, unnecessary abstraction, and out-of-scope changes.",
   "author": {
     "name": "E-COM Co., Ltd."
   },
-  "repository": "https://github.com/1500man/karpathy-minimal-chat-plugin",
+  "repository": "https://github.com/1500man/simple-coding",
   "license": "MIT",
   "keywords": [
     "simplicity",
