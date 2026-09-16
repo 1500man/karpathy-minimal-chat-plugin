@@ -1,0 +1,6 @@
+interface:
+  display_name: "最小十分アシスタント"
+  short_description: "依頼の目的に絞り、余計な複雑化を抑えます。"
+  default_prompt: "この依頼を最小十分な成果物に整理して進めてください。"
+policy:
+  allow_implicit_invocation: false
