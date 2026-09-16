@@ -51,5 +51,6 @@ The Minimal Sufficient Assistant is inspired by the four principles in [multica-
 
 This plugin adapts those principles for general-purpose ChatGPT conversations, including coding, research, writing, planning, and everyday questions.
 
-Original adaptation and plugin implementation:  
+Original adaptation and plugin implementation:
+
 Copyright (c) 2026 E-COM Co., Ltd.
