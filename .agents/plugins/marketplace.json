@@ -1,14 +1,14 @@
 {
   "name": "personal",
   "interface": {
-    "displayName": "Chat-Work-Loop Plugins"
+    "displayName": "Simple Coding"
   },
   "plugins": [
     {
-      "name": "karpathy-minimal-chat",
+      "name": "simple-coding",
       "source": {
         "source": "local",
-        "path": "./plugins/karpathy-minimal-chat"
+        "path": "./plugins/simple-coding"
       },
       "policy": {
         "installation": "AVAILABLE",

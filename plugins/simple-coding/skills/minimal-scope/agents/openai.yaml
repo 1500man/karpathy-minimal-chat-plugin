@@ -1,0 +1,6 @@
+interface:
+  display_name: "Simple Coding"
+  short_description: "AIコーディングで過剰実装と依頼外変更を抑えます。"
+  default_prompt: "依頼範囲を守り、必要最小限の実装と検証に集中してください。"
+policy:
+  allow_implicit_invocation: false

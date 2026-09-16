@@ -1,0 +1,30 @@
+{
+  "name": "simple-coding",
+  "version": "0.1.0+codex.20260916220340",
+  "description": "Guidance for AI coding that limits overimplementation, overdesign, unnecessary abstraction, and out-of-scope changes.",
+  "author": {
+    "name": "E-COM Co., Ltd."
+  },
+  "repository": "https://github.com/1500man/karpathy-minimal-chat-plugin",
+  "license": "MIT",
+  "keywords": [
+    "simplicity",
+    "minimal-scope",
+    "clarification",
+    "verification",
+    "coding"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Simple Coding",
+    "shortDescription": "AIコーディングで過剰実装や不要な複雑化を抑え、依頼範囲に集中します。",
+    "longDescription": "AIコーディングにおける過剰実装、過剰設計、不要な抽象化、依頼外変更を抑えます。前提と完了条件を明確にし、必要最小限の変更を検証して止めます。",
+    "developerName": "E-COM Co., Ltd.",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "AIコーディングでは、依頼範囲を守り、必要最小限の実装と検証に集中してください。"
+  }
+}
+
+
+
